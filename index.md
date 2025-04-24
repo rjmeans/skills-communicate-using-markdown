@@ -7,4 +7,6 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+var myvar = "Hello, World!":
+
 Changes made reflect instruction on tutorial on markdowns
