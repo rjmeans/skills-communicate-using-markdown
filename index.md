@@ -7,9 +7,11 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-''' javascript
+<pre> ```javascript console.log("Great Success"); ``` </pre>
+
+<pre>''' javascript
 var myvar = "Hello, World!":
-'''
+'''<pre>
 
 '''
 $ git init
