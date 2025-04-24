@@ -7,6 +7,13 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+''' javascript
 var myvar = "Hello, World!":
+'''
+
+'''
+$ git init
+Initialized empty Git repository in /users/skills/project/recipe-repository/.git/
+'''
 
 Changes made reflect instruction on tutorial on markdowns
