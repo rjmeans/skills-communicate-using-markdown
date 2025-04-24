@@ -5,6 +5,6 @@
 ##### <h5> yep
 ###### <h6> Smallest Header
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Changes made reflect instruction on tutorial on markdowns
