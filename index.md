@@ -17,5 +17,8 @@ var myvar = "Hello, World!":
 $ git init
 Initialized empty Git repository in /users/skills/project/recipe-repository/.git/
 '''
-
+  - [x] List Syntax is required
+  - [x] This item is complete
+  - [ ] This item is not complete
+  
 Changes made reflect instruction on tutorial on markdowns
